@@ -41,3 +41,4 @@ Data Cleaning (Python)
   * Effortlessly explore and interpret enrollment trends
   * Apply filters for more informed education program and policy planning
 # Dashboard Preview
+![Alt text](Plotly-Dash_Dashboard.png)
